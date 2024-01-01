@@ -1,4 +1,4 @@
-# Fine-Tune-LLM
+# Fine-Tune Open Source LLM
 In this project, we have focused on certain aspects like how we can Tune a state-of-the-art Large language Model like Deci-7B and other fundamental aspects in Fine-tuning 
 Open Source LLM's.
 
